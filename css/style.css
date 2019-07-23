@@ -1,3 +1,8 @@
+ .tel-number a{
+  color: #ebc707;
+  text-decoration:none;
+ }
+
 .accessfont{
  font-size: 30px;
  color: #ebc707;
@@ -2107,8 +2112,5 @@ figure {
     background-position: 0 70%;
  }
 
- .tel-number{
-  color: #ebc707;
-  text-decoration:none;
- }
+
 /*# sourceMappingURL=style.css.map */
