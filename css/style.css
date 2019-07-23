@@ -2106,4 +2106,9 @@ figure {
  .subimage{
     background-position: 0 70%;
  }
+
+ .tel-number{
+  color: #ebc707;
+  text-decoration:none;
+ }
 /*# sourceMappingURL=style.css.map */
