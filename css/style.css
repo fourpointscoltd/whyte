@@ -1670,6 +1670,7 @@ figure {
 #offcanvas-menu ul li a {
   font-size: 18px;
   color: rgba(255, 255, 255, 0.4);
+  font-weight: 700;
 }
 #offcanvas-menu ul li a:hover {
   color: white;
