@@ -33,14 +33,20 @@ if (version_compare(PHP_VERSION, '5.1.0', '>=')) {//PHP5.1.0以上の場合の�
 $site_top = "http://www.white.tokyo";
 
 //管理者のメールアドレス ※メールを受け取るメールアドレス(複数指定する場合は「,」で区切ってください 例 $to = "aa@aa.aa,bb@bb.bb";)
+$from = "yuunakamura817@gmail.com";
+$Email = "Email";
 $to = “yuunakamura817@gmail.com";
 
-//自動返信メールの送信元メールアドレス
+
+
+
+メールアドレス
 //必ず実在するメールアドレスでかつ出来る限り設置先サイトのドメインと同じドメインのメールアドレスとすることを強く推奨します
-$from = "yuunakamura817@gmail.com";
+
+
 
 //フォームのメールアドレス入力箇所のname属性の値（name="○○"　の○○部分）
-$Email = "Email";
+
 //---------------------------　必須設定　ここまで　------------------------------------
 
 
