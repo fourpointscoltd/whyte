@@ -2152,7 +2152,47 @@ width: 40%;
 }
 }
 
+.relative {
+    position: relative;
+}
 
+.absolute {
+    position: absolute;
+    left: 18%;
+    top: 12px;
+}
 
+.absolute1 {
+    position: absolute;
+    left: 22%;
+    top: 12.5px;
+}
 
+.absolute2 {
+    position: absolute;
+    left: 47%;
+    top: 12.5px;
+}
+
+.absolute3 {
+    position: absolute;
+    left: 36%;
+    top: 12.5px;
+}
+
+.absolute4 {
+    position: absolute;
+    left: 44%;
+    top: 12.5px;
+}
+
+.absolute5 {
+    position: absolute;
+    left: 90%;
+    top: 12.5px;
+}
+
+.sotobetsu{
+  font-size: 20px;
+}
 /*# sourceMappingURL=style.css.map */
