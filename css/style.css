@@ -2192,6 +2192,30 @@ width: 40%;
     top: 12.5px;
 }
 
+.absolute7 {
+    position: absolute;
+    left: 44%;
+    top: 277.5px;
+}
+
+.absolute10 {
+    position: absolute;
+    left: 72.1%;
+    top: 12.5px;
+}
+
+.absolute11 {
+    position: absolute;
+    left: 43%;
+    top: 13px;
+}
+
+.absolute13 {
+    position: absolute;
+    left: 23.5%;
+    top: 205%;
+}
+
 .sotobetsu{
   font-size: 20px;
 }
